@@ -29,7 +29,7 @@ export default {
                             this.getVideoElement().srcObject = stream;
                             this.getVideoElement().play();
                           })
-                          .catch((err) => {
+                          .catch((err) => { 
                             console.log(err);
                           })
   }
