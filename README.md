@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # video-chat-socketio
 
 > Video chat with Vue.js and Socket.io
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# VideoChatSocketIO
+Video chat with html5 api and Socket.IO
+>>>>>>> 0b6903fe56e4e871fee1ee8ce678c25cc06147b1
